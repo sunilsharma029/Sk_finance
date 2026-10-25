@@ -5,9 +5,9 @@ Financial data analysis and visualization using Microsoft Power BI.
 
 ## Dashboard Screenshots
 
-![Dashboard Screenshot 1](screenshots/ss1.png)
+![Dashboard Screenshot 1](ss1.png)
 
-![Dashboard Screenshot 2](screenshots/ss2.png)
+![Dashboard Screenshot 2](ss2.png)
 
 ## Tools Used
 - Microsoft Power BI
